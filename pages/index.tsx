@@ -17,7 +17,7 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Get started by editing&nbsp;
+            Get by editing&nbsp;
             <code className={styles.code}>{process.env.NODE_ENV}</code>
           </p>
           <div>
