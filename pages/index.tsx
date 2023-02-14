@@ -18,7 +18,7 @@ export default function Home() {
         <div className={styles.description}>
           <p>
             Get by editing&nbsp;
-            <code className={styles.code}>{process.env.NODE_ENV}</code>
+            <code className={styles.code}>{process.env.NEXT_PUBLIC_VERCEL_ENV}</code>
           </p>
           <div>
             <a
